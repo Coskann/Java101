@@ -24,30 +24,29 @@ public class flightTicket101 {
             if (age >= 12 && age <= 24 && tip == 1) {
 
                 indirimli = toplam - toplam * 0.10;
-                System.out.println("Toplam Ücret" +indirimli);
+                System.out.println("Toplam Ücret" + indirimli);
             } else if (age < 12 && tip == 1) {
 
                 indirimli = toplam - toplam * 0.50;
-                System.out.println("Toplam Ücret" +indirimli);
+                System.out.println("Toplam Ücret" + indirimli);
             } else if (age >= 65 && tip == 1) {
 
                 indirimli = toplam - toplam * 0.30;
-                System.out.println("Toplam Ücret" +indirimli);
+                System.out.println("Toplam Ücret" + indirimli);
             } else if (age < 12 && tip == 2) {
 
                 indirimli = toplam - toplam * 0.50 * 0.20;
-                System.out.println("Toplam Ücret" +indirimli);
+                System.out.println("Toplam Ücret" + indirimli);
             } else if (age >= 65 && tip == 2) {
 
                 indirimli = toplam - toplam * 0.30 * 0.20;
-                System.out.println("Toplam Ücret" +indirimli);
+                System.out.println("Toplam Ücret" + indirimli);
 
-            }else if(age >= 12 && age <= 24 && tip == 2){
-                indirimli=(toplam- toplam*0.10*0.20)*2;
-                System.out.println("Toplam Ücret" +indirimli + "$");
-            }
-            else {
-                System.out.println("Girdilerinizi Kontrol Ediniz!");
+            } else if (age >= 12 && age <= 24 && tip == 2) {
+                indirimli = (toplam - toplam * 0.10 * 0.20) * 2;
+                System.out.println("Toplam Ücret" + indirimli + "$");
+            } else {
+                System.out.println("Girdilerinizi Kontrol Ediniz!!");
 
             }
 
