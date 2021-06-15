@@ -37,6 +37,7 @@ public class burc101 {
         } else if(month == 12) {
             sign = "Sagittarius";
         }
+        System.out.println("Your Zodiac sign is "+sign+".");
 
     }
 }
