@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fa4b0ff-37c7-4ba8-b9f3-d5d61bf8b0b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/daireDilimAlanı101.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/etkinlik101.java" beforeDir="false" afterPath="$PROJECT_DIR$/etkinlik101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hesapMakinesi101.java" beforeDir="false" afterPath="$PROJECT_DIR$/hesapMakinesi101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kdvCalc101.java" beforeDir="false" afterPath="$PROJECT_DIR$/kdvCalc101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kullaniciGirisi101.java" beforeDir="false" afterPath="$PROJECT_DIR$/kullaniciGirisi101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manavKasa101.java" beforeDir="false" afterPath="$PROJECT_DIR$/manavKasa101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ortalama101.java" beforeDir="false" afterPath="$PROJECT_DIR$/ortalama101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taxiMetre101.java" beforeDir="false" afterPath="$PROJECT_DIR$/taxiMetre101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ucgenAlan101.java" beforeDir="false" afterPath="$PROJECT_DIR$/ucgenAlan101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vucutKitleIndexi101.java" beforeDir="false" afterPath="$PROJECT_DIR$/vucutKitleIndexi101.java" afterDir="false" />
-    </list>
+    <list default="true" id="0fa4b0ff-37c7-4ba8-b9f3-d5d61bf8b0b2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,5 +48,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
