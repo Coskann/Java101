@@ -1,1 +1,0 @@
-#Ortalama Hesaplama.
