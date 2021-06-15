@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class etkinlik101 {
 
     public static void main(String[] args) {
         double heat;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class hesapMakinesi101 {
 
     public static void main(String[] args) {
         double n1, n2;

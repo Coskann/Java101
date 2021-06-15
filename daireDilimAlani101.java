@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class daireDilimAlani101{
 
     public static void main(String[] args) {
 	double r,a,pi=3.14;
