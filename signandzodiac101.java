@@ -41,41 +41,41 @@ public class signandzodiac101 {
             sign = "Sagittarius";
         }
         int x = (year) % 12;
-        if ((x == 1) || (x == -11)) {
-            chineseSign = "Rat";
+        if ((x == 1)) {
+            chineseSign = "Chicken";
         } else {
             if (x == 0) {
-                chineseSign = "Ox";
+                chineseSign = "Monkey";
             } else {
                 if ((x == 11)) {
-                    chineseSign = "Tiger";
+                    chineseSign = "Sheep";
                 } else {
                     if ((x == 10)) {
-                        chineseSign = "Rabbit";
+                        chineseSign = "Horse";
                     } else {
                         if ((x == 9)) {
-                            chineseSign = "Dragon";
+                            chineseSign = "Snake";
                         } else {
                             if ((x == 8)) {
-                                chineseSign = "Snake";
+                                chineseSign = "Dragon";
                             } else {
                                 if ((x == 7)) {
-                                    chineseSign = "Horse";
+                                    chineseSign = "Rabbit";
                                 } else {
                                     if ((x == 6)) {
-                                        chineseSign = "Sheep";
+                                        chineseSign = "Tiger";
                                     } else {
                                         if ((x == 5)) {
-                                            chineseSign = "Monkey";
+                                            chineseSign = "Ox";
                                         } else {
                                             if ((x == 4)) {
-                                                chineseSign = "Chicken";
+                                                chineseSign = "Rat";
                                             } else {
                                                 if ((x == 3)) {
-                                                    chineseSign = "Dog";
+                                                    chineseSign = "Pig";
                                                 } else {
                                                     if ((x == 2)) {
-                                                        chineseSign = "Pig";
+                                                        chineseSign = "Dog";
 
                                                     }
                                                 }
