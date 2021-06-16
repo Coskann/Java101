@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class artikYil {
+public class artikYil101 {
 
     public static void main(String[] args) {
         int year;

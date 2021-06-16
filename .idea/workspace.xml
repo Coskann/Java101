@@ -30,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.artikYil">
+  <component name="RunManager" selected="Application.whileDongusu">
     <configuration name="artikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="artikYil" />
       <module name="Java101" />
@@ -52,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="whileDongusu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileDongusu" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.whileDongusu" />
         <item itemvalue="Application.artikYil" />
         <item itemvalue="Application.signandzodiac101" />
         <item itemvalue="Application.flightTicket101" />
