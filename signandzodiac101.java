@@ -47,34 +47,34 @@ public class signandzodiac101 {
             if (x == 0) {
                 chineseSign = "Ox";
             } else {
-                if ((x == 11) || (x == -1)) {
+                if ((x == 11)) {
                     chineseSign = "Tiger";
                 } else {
-                    if ((x == 10) || (x == -2)) {
+                    if ((x == 10)) {
                         chineseSign = "Rabbit";
                     } else {
-                        if ((x == 9) || (x == -3)) {
+                        if ((x == 9)) {
                             chineseSign = "Dragon";
                         } else {
-                            if ((x == 8) || (x == -4)) {
+                            if ((x == 8)) {
                                 chineseSign = "Snake";
                             } else {
-                                if ((x == 7) || (x == -5)) {
+                                if ((x == 7)) {
                                     chineseSign = "Horse";
                                 } else {
-                                    if ((x == 6) || (x == -6)) {
+                                    if ((x == 6)) {
                                         chineseSign = "Sheep";
                                     } else {
-                                        if ((x == 5) || (x == -7)) {
+                                        if ((x == 5)) {
                                             chineseSign = "Monkey";
                                         } else {
-                                            if ((x == 4) || (x == -8)) {
+                                            if ((x == 4)) {
                                                 chineseSign = "Chicken";
                                             } else {
-                                                if ((x == 3) || (x == -9)) {
+                                                if ((x == 3)) {
                                                     chineseSign = "Dog";
                                                 } else {
-                                                    if ((x == 2) || (x == -10)) {
+                                                    if ((x == 2)) {
                                                         chineseSign = "Pig";
 
                                                     }
