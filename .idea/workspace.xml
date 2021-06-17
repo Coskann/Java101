@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fa4b0ff-37c7-4ba8-b9f3-d5d61bf8b0b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0fa4b0ff-37c7-4ba8-b9f3-d5d61bf8b0b2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +28,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.kuvvet101">
+  <component name="RunManager" selected="Application.Kombinasyon101">
+    <configuration name="Kombinasyon101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kombinasyon101" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="artikYil101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="artikYil101" />
       <module name="Java101" />
@@ -52,13 +57,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="signandzodiac101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="signandzodiac101" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="whileDongusu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="whileDongusu" />
       <module name="Java101" />
@@ -68,11 +66,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kombinasyon101" />
         <item itemvalue="Application.kuvvet101" />
         <item itemvalue="Application.bolunebilme101" />
         <item itemvalue="Application.whileDongusu" />
         <item itemvalue="Application.artikYil101" />
-        <item itemvalue="Application.signandzodiac101" />
       </list>
     </recent_temporary>
   </component>
