@@ -30,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.bolunebilme101">
+  <component name="RunManager" selected="Application.kuvvet101">
     <configuration name="artikYil101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="artikYil101" />
       <module name="Java101" />
@@ -45,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="flightTicket101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="flightTicket101" />
+    <configuration name="kuvvet101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kuvvet101" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,11 +68,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kuvvet101" />
         <item itemvalue="Application.bolunebilme101" />
         <item itemvalue="Application.whileDongusu" />
         <item itemvalue="Application.artikYil101" />
         <item itemvalue="Application.signandzodiac101" />
-        <item itemvalue="Application.flightTicket101" />
       </list>
     </recent_temporary>
   </component>
