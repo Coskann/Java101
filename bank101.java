@@ -19,7 +19,7 @@ public class bank101 {
 
 
             if (a == true && b == true) {
-                System.out.println("Giriş Başaryıla Sağlandı");
+                System.out.println("Giriş Başarıyla Sağlandı");
                 do {
                     System.out.println("1-) Para Çekmek\n2-) Para Yatırmak\n3-) Bakiye Sorgulama\n4-) Çıkış");
                     System.out.print("Lütfen Yapmak İstediğiniz İşlemi Seçiniz: ");
