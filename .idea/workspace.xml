@@ -28,16 +28,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.reverse101">
-    <configuration name="diamond101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diamond101" />
+  <component name="RunManager" selected="Application.fibonacci101">
+    <configuration name="ebobekok101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ebobekok101" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ebobekok101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ebobekok101" />
+    <configuration name="fibonacci101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacci101" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +66,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacci101" />
         <item itemvalue="Application.reverse101" />
         <item itemvalue="Application.mukemmel101" />
         <item itemvalue="Application.minmax101" />
         <item itemvalue="Application.ebobekok101" />
-        <item itemvalue="Application.diamond101" />
       </list>
     </recent_temporary>
   </component>
