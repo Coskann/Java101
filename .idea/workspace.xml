@@ -34,9 +34,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.recursivePrime101">
+  <component name="RunManager" selected="Application.desenMetot">
     <configuration name="calculatorplus101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculatorplus101" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="desenMetot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desenMetot" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,20 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverse101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverse101" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desenMetot" />
         <item itemvalue="Application.recursivePrime101" />
         <item itemvalue="Application.recursivePower101" />
         <item itemvalue="Application.calculatorplus101" />
         <item itemvalue="Application.fibonacci101" />
-        <item itemvalue="Application.reverse101" />
       </list>
     </recent_temporary>
   </component>
