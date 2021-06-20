@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class desenMetot {
 
-    static void hesapla(int sayi){
+    static void calc(int sayi){
         int temp = sayi;
         System.out.println(temp);
         while(temp>0){
@@ -24,6 +24,6 @@ public class desenMetot {
         System.out.println("Sayı giriniz :");
         i= sc.nextInt();
         System.out.println("================");
-        hesapla(i);
+        calc(i);
     }
 }
