@@ -19,7 +19,11 @@ public class desenMetot {
 
 
     public static void main(String[] args) {
+        int i;
         Scanner sc = new Scanner(System.in);
-        hesapla(10);
+        System.out.println("Sayı giriniz :");
+        i= sc.nextInt();
+        System.out.println("================");
+        hesapla(i);
     }
 }
