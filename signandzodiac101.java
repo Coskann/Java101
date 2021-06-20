@@ -5,7 +5,7 @@ public class signandzodiac101 {
     public static void main(String[] args) {
         int month, day, year;
         String sign = "";
-        String chineseSign="";
+        String chineseSign = "";
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter day(1-31): ");
@@ -13,7 +13,7 @@ public class signandzodiac101 {
         System.out.println("Enter month(1-12): ");
         month = scan.nextInt();
         System.out.println("Entry year:");
-        year= scan.nextInt();
+        year = scan.nextInt();
 
         if ((month == 1) && (day <= 21) || (month == 12) && (day >= 22)) {
             sign = "Capricorn";
@@ -89,7 +89,8 @@ public class signandzodiac101 {
                     }
                 }
             }
-        }System.out.println("Your Zodiac sign is "+sign+".");
-         System.out.println("Chinese Zodiac is: "+chineseSign+".");
+        }
+        System.out.println("Your Zodiac sign is " + sign + ".");
+        System.out.println("Chinese Zodiac is: " + chineseSign + ".");
     }
 }
