@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class desenMetot {
+public class desenMetot101 {
 
     static void calc(int sayi) {
         int temp = sayi;
