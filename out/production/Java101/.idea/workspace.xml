@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0fa4b0ff-37c7-4ba8-b9f3-d5d61bf8b0b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ogrenciBilgiSistemi/ogrenciBilgiSistemi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signandzodiac101.java" beforeDir="false" afterPath="$PROJECT_DIR$/signandzodiac101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java101/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java101/desenMetot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java101/desenMetot.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +36,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.calculatorplus101">
+  <component name="RunManager" selected="Application.desenMetot">
     <configuration name="calculatorplus101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculatorplus101" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="desenMetot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desenMetot" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -46,22 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minmax101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="minmax101" />
+    <configuration name="recursivePower101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursivePower101" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mukemmel101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mukemmel101" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reverse101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverse101" />
+    <configuration name="recursivePrime101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursivePrime101" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desenMetot" />
+        <item itemvalue="Application.recursivePrime101" />
+        <item itemvalue="Application.recursivePower101" />
         <item itemvalue="Application.calculatorplus101" />
         <item itemvalue="Application.fibonacci101" />
-        <item itemvalue="Application.reverse101" />
-        <item itemvalue="Application.mukemmel101" />
-        <item itemvalue="Application.minmax101" />
       </list>
     </recent_temporary>
   </component>
