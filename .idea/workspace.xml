@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa4b0ff-37c7-4ba8-b9f3-d5d61bf8b0b2" name="Default Changelist" comment="" />
+    <list default="true" id="0fa4b0ff-37c7-4ba8-b9f3-d5d61bf8b0b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +34,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../javademos/Employee" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.BoksMaci">
+  <component name="RunManager" selected="Application.ElemanSiralama101">
     <configuration name="BoksMaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoksMaci" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElemanSiralama101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElemanSiralama101" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,20 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="recursivePrime101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursivePrime101" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElemanSiralama101" />
         <item itemvalue="Application.BoksMaci" />
         <item itemvalue="Application.desenMetot101" />
         <item itemvalue="Application.adsad" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.recursivePrime101" />
       </list>
     </recent_temporary>
   </component>
