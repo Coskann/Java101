@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.idea/
 
 ### STS ###
 .apt_generated
@@ -22,6 +23,7 @@ web
 *.xml
 .gitignore
 
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -31,6 +33,7 @@ web
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
 
 ### VS Code ###
 .vscode/
